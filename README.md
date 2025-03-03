@@ -16,6 +16,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sparsh166/Coding-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sparsh166/Coding-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sparsh166/Coding-/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Sparsh166/Coding-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sparsh166/Coding-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sparsh166/Coding-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sparsh166/Coding-/tree/master/0485-max-consecutive-ones) |
@@ -42,6 +43,7 @@
 | [0001-two-sum](https://github.com/Sparsh166/Coding-/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sparsh166/Coding-/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Sparsh166/Coding-/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Sparsh166/Coding-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sparsh166/Coding-/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -59,6 +61,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Sparsh166/Coding-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Sparsh166/Coding-/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Sparsh166/Coding-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sparsh166/Coding-/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -74,6 +77,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sparsh166/Coding-/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Sparsh166/Coding-/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
