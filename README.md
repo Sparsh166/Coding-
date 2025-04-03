@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/Sparsh166/Coding-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sparsh166/Coding-/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Sparsh166/Coding-/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Sparsh166/Coding-/tree/master/0907-koko-eating-bananas) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sparsh166/Coding-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sparsh166/Coding-/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -66,6 +67,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sparsh166/Coding-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Sparsh166/Coding-/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Sparsh166/Coding-/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Sparsh166/Coding-/tree/master/0907-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
