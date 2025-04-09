@@ -22,6 +22,7 @@
 | [0229-majority-element-ii](https://github.com/Sparsh166/Coding-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sparsh166/Coding-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sparsh166/Coding-/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/Sparsh166/Coding-/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Sparsh166/Coding-/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Sparsh166/Coding-/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Sparsh166/Coding-/tree/master/0907-koko-eating-bananas) |
@@ -72,6 +73,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sparsh166/Coding-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Sparsh166/Coding-/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Sparsh166/Coding-/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/Sparsh166/Coding-/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/Sparsh166/Coding-/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Sparsh166/Coding-/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sparsh166/Coding-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -90,6 +92,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sparsh166/Coding-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sparsh166/Coding-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/Sparsh166/Coding-/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,4 +112,12 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Sparsh166/Coding-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sparsh166/Coding-/tree/master/0073-set-matrix-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Sparsh166/Coding-/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Sparsh166/Coding-/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
