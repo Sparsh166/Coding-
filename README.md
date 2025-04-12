@@ -21,6 +21,7 @@
 | [0169-majority-element](https://github.com/Sparsh166/Coding-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sparsh166/Coding-/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Sparsh166/Coding-/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sparsh166/Coding-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sparsh166/Coding-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sparsh166/Coding-/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Sparsh166/Coding-/tree/master/0410-split-array-largest-sum) |
@@ -73,6 +74,7 @@
 | [0069-sqrtx](https://github.com/Sparsh166/Coding-/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Sparsh166/Coding-/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sparsh166/Coding-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sparsh166/Coding-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sparsh166/Coding-/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Sparsh166/Coding-/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Sparsh166/Coding-/tree/master/0410-split-array-largest-sum) |
@@ -100,6 +102,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sparsh166/Coding-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sparsh166/Coding-/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sparsh166/Coding-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -115,6 +118,7 @@
 | [0048-rotate-image](https://github.com/Sparsh166/Coding-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sparsh166/Coding-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sparsh166/Coding-/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sparsh166/Coding-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Greedy
 |  |
 | ------- |
