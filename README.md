@@ -66,6 +66,7 @@
 | [0189-rotate-array](https://github.com/Sparsh166/Coding-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sparsh166/Coding-/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Sparsh166/Coding-/tree/master/0367-valid-perfect-square) |
+| [2032-largest-odd-number-in-string](https://github.com/Sparsh166/Coding-/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Sparsh166/Coding-/tree/master/0410-split-array-largest-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/Sparsh166/Coding-/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sparsh166/Coding-/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Sparsh166/Coding-/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Sparsh166/Coding-/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
