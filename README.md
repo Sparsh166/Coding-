@@ -37,6 +37,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sparsh166/Coding-/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sparsh166/Coding-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Sparsh166/Coding-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sparsh166/Coding-/tree/master/0075-sort-colors) |
@@ -103,6 +104,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sparsh166/Coding-/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Sparsh166/Coding-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sparsh166/Coding-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Sparsh166/Coding-/tree/master/0410-split-array-largest-sum) |
@@ -141,6 +143,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sparsh166/Coding-/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Sparsh166/Coding-/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Sparsh166/Coding-/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Sparsh166/Coding-/tree/master/0151-reverse-words-in-a-string) |
