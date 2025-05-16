@@ -1,26 +1,42 @@
 class Solution {
 public:
     int myAtoi(string s) {
-        if(s.size()==0){return 0;}
-        int i =0;
-        while(i<s.size() && s[i]==' '){
+        int i = 0; // Pointer for traversing the string
+        int n = s.size(); // Length of the string
+        
+        // Step 1: Skip leading whitespace
+        while (i < n && s[i] == ' ') {
             i++;
         }
-        s = s.substr(i);
+        
+        // Step 2: Handle empty string after trimming spaces
+        if (i >= n) return 0;
 
-        int sign = 1;
-        long ans = 0;
-        if(s[0]=='-'){sign =-1;}
-
-        int MAX = INT_MAX; int MIN = INT_MIN;
-        i = (s[0]=='+'||s[0]=='-')?1:0;
-        while(i<s.size()){
-            if(s[i]==' '||!isdigit(s[i])){break;}
-            ans = ans*10+s[i]-'0';
-            if(sign == -1 && -1*ans<INT_MIN){return MIN;}
-            if(sign == 1 && ans>INT_MAX){return MAX;}
+        // Step 3: Determine the sign of the number
+        int sign = 1; // Default is positive
+        if (s[i] == '-') {
+            sign = -1;
+            i++;
+        } else if (s[i] == '+') {
             i++;
         }
-        return int(sign*ans);
+        
+        long ans = 0; // To store the result as we process digits
+
+        // Step 4: Convert numeric characters to integer
+        while (i < n && isdigit(s[i])) {
+            int digit = s[i] - '0'; // Convert character to integer
+            
+            // Check for overflow/underflow BEFORE updating `ans`
+            if (ans > (INT_MAX - digit) / 10) {
+                return sign == 1 ? INT_MAX : INT_MIN;
+            }
+            
+            ans = ans * 10 + digit; // Update result
+            i++;
+        }
+        
+        // Return the final result with the correct sign
+        return sign * ans;
     }
 };
