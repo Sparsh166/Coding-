@@ -3,14 +3,19 @@ public:
     bool check(vector<int>& nums) {
         int n = nums.size();
         int drop = 0;
-        for(int i=0;i<n-1;i++){
-            if (nums[i]>nums[i+1]){
+        for(int i=1;i<n;i++){
+            if (nums[i-1]>nums[i]){
                 drop++;
             }
         }
-        if (nums[0]<nums[n-1]){
+        if(nums[0]<nums[n-1]){
             drop++;
         }
-        return drop<=1;
+        if(drop>1){
+            return false;
+        }
+        else{
+            return true;
+        }
     }
 };
