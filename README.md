@@ -82,6 +82,7 @@
 | [0268-missing-number](https://github.com/Sparsh166/Coding-/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Sparsh166/Coding-/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Sparsh166/Coding-/tree/master/0560-subarray-sum-equals-k) |
+| [1297-maximum-number-of-balloons](https://github.com/Sparsh166/Coding-/tree/master/1297-maximum-number-of-balloons) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [0169-majority-element](https://github.com/Sparsh166/Coding-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sparsh166/Coding-/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Sparsh166/Coding-/tree/master/0451-sort-characters-by-frequency) |
+| [1297-maximum-number-of-balloons](https://github.com/Sparsh166/Coding-/tree/master/1297-maximum-number-of-balloons) |
 ## Simulation
 |  |
 | ------- |
@@ -180,6 +182,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Sparsh166/Coding-/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Sparsh166/Coding-/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Sparsh166/Coding-/tree/master/1078-remove-outermost-parentheses) |
+| [1297-maximum-number-of-balloons](https://github.com/Sparsh166/Coding-/tree/master/1297-maximum-number-of-balloons) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sparsh166/Coding-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Sparsh166/Coding-/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sparsh166/Coding-/tree/master/2137-final-value-of-variable-after-performing-operations) |
