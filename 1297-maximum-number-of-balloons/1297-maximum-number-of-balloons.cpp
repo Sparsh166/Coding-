@@ -1,22 +1,17 @@
 class Solution {
 public:
     int maxNumberOfBalloons(string text) {
-        // Map to store frequency of characters
-        std::map<char, int> freq;
-
-        // Count the frequency of each character in the string
-        for (char ch : text) {
-            freq[ch]++;
+        int len = text.length();
+        map<char,int> freq ; 
+        for(int i=0;i<len;i++){
+            freq[text[i]]++;
         }
-
-        // Calculate how many times we can form the word "balloon"
         int b = freq['b'];
         int a = freq['a'];
-        int l = freq['l'] / 2; // 'l' appears twice in "balloon"
-        int o = freq['o'] / 2; // 'o' appears twice in "balloon"
+        int l = freq['l']/2;
+        int o = freq['o']/2;
         int n = freq['n'];
-
-        // Return the minimum of all required character counts
-        return std::min({b, a, l, o, n});
+        
+        return min({b,a,l,o,n});
     }
 };
