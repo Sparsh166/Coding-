@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sparsh166/Coding-/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Sparsh166/Coding-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sparsh166/Coding-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sparsh166/Coding-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Sparsh166/Coding-/tree/master/0031-next-permutation) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sparsh166/Coding-/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Sparsh166/Coding-/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sparsh166/Coding-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sparsh166/Coding-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sparsh166/Coding-/tree/master/0027-remove-element) |
@@ -161,6 +163,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sparsh166/Coding-/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Sparsh166/Coding-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sparsh166/Coding-/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Sparsh166/Coding-/tree/master/0410-split-array-largest-sum) |
