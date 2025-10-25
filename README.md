@@ -100,6 +100,7 @@
 | [0189-rotate-array](https://github.com/Sparsh166/Coding-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sparsh166/Coding-/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Sparsh166/Coding-/tree/master/0367-valid-perfect-square) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Sparsh166/Coding-/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/Sparsh166/Coding-/tree/master/2032-largest-odd-number-in-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sparsh166/Coding-/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sparsh166/Coding-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
