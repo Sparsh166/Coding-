@@ -37,6 +37,7 @@
 | [0792-binary-search](https://github.com/Sparsh166/Coding-/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Sparsh166/Coding-/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sparsh166/Coding-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1063-best-sightseeing-pair](https://github.com/Sparsh166/Coding-/tree/master/1063-best-sightseeing-pair) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sparsh166/Coding-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sparsh166/Coding-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Sparsh166/Coding-/tree/master/1646-kth-missing-positive-number) |
@@ -148,6 +149,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sparsh166/Coding-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Sparsh166/Coding-/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Sparsh166/Coding-/tree/master/0410-split-array-largest-sum) |
+| [1063-best-sightseeing-pair](https://github.com/Sparsh166/Coding-/tree/master/1063-best-sightseeing-pair) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sparsh166/Coding-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Divide and Conquer
 |  |
