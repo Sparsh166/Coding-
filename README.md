@@ -45,6 +45,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sparsh166/Coding-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sparsh166/Coding-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Sparsh166/Coding-/tree/master/2169-simple-bank-system) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Sparsh166/Coding-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sparsh166/Coding-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Sparsh166/Coding-/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Two Pointers
@@ -108,6 +109,7 @@
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Sparsh166/Coding-/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/Sparsh166/Coding-/tree/master/2032-largest-odd-number-in-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sparsh166/Coding-/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Sparsh166/Coding-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sparsh166/Coding-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |
@@ -182,6 +184,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sparsh166/Coding-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sparsh166/Coding-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sparsh166/Coding-/tree/master/0240-search-a-2d-matrix-ii) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Sparsh166/Coding-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Greedy
 |  |
 | ------- |
@@ -213,6 +216,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sparsh166/Coding-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Sparsh166/Coding-/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sparsh166/Coding-/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Sparsh166/Coding-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sparsh166/Coding-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
