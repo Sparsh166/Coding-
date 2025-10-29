@@ -78,6 +78,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Sparsh166/Coding-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Sparsh166/Coding-/tree/master/0268-missing-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Sparsh166/Coding-/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Sparsh166/Coding-/tree/master/2032-largest-odd-number-in-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sparsh166/Coding-/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sparsh166/Coding-/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Sparsh166/Coding-/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sparsh166/Coding-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |
