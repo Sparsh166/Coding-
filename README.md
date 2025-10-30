@@ -43,6 +43,7 @@
 | [1063-best-sightseeing-pair](https://github.com/Sparsh166/Coding-/tree/master/1063-best-sightseeing-pair) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sparsh166/Coding-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sparsh166/Coding-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sparsh166/Coding-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/Sparsh166/Coding-/tree/master/1646-kth-missing-positive-number) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sparsh166/Coding-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sparsh166/Coding-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -165,6 +166,7 @@
 | [0152-maximum-product-subarray](https://github.com/Sparsh166/Coding-/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Sparsh166/Coding-/tree/master/0410-split-array-largest-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Sparsh166/Coding-/tree/master/1063-best-sightseeing-pair) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sparsh166/Coding-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sparsh166/Coding-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Divide and Conquer
 |  |
@@ -204,6 +206,7 @@
 | [0045-jump-game-ii](https://github.com/Sparsh166/Coding-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sparsh166/Coding-/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Sparsh166/Coding-/tree/master/0410-split-array-largest-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sparsh166/Coding-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Sparsh166/Coding-/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
@@ -236,6 +239,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Sparsh166/Coding-/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Sparsh166/Coding-/tree/master/1078-remove-outermost-parentheses) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sparsh166/Coding-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sparsh166/Coding-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
@@ -338,4 +342,8 @@
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/Sparsh166/Coding-/tree/master/2169-simple-bank-system) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sparsh166/Coding-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
