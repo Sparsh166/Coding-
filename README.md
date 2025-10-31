@@ -51,6 +51,7 @@
 | [2169-simple-bank-system](https://github.com/Sparsh166/Coding-/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sparsh166/Coding-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sparsh166/Coding-/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sparsh166/Coding-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sparsh166/Coding-/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Sparsh166/Coding-/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Two Pointers
@@ -104,6 +105,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/Sparsh166/Coding-/tree/master/1297-maximum-number-of-balloons) |
 | [2169-simple-bank-system](https://github.com/Sparsh166/Coding-/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sparsh166/Coding-/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sparsh166/Coding-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Sparsh166/Coding-/tree/master/2032-largest-odd-number-in-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sparsh166/Coding-/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sparsh166/Coding-/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sparsh166/Coding-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sparsh166/Coding-/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sparsh166/Coding-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
