@@ -2,13 +2,14 @@ class Solution {
 public:
     vector<int> getSneakyNumbers(vector<int>& nums) {
         int n = nums.size();
-        sort(nums.begin(),nums.end());
         vector<int>ans;
-        for(int i=1;i<n;i++){
-            if (nums[i]==nums[i-1]){
-                if(ans.empty()|| ans.back()!=nums[i]){
-                    ans.push_back(nums[i]);
-                }
+        map<int,int>freq;
+        for(int i=0;i<n;i++){
+            freq[nums[i]]++;
+        }
+        for(auto it:freq){
+            if (it.second>1){
+                ans.push_back(it.first);
             }
         }
         return ans;
