@@ -145,6 +145,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sparsh166/Coding-/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sparsh166/Coding-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sparsh166/Coding-/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Sparsh166/Coding-/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Sparsh166/Coding-/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Sparsh166/Coding-/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sparsh166/Coding-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -366,4 +367,8 @@
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sparsh166/Coding-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Sparsh166/Coding-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
