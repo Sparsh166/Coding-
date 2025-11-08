@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int maximum(vector<int>& nums){
+    int maxim(vector<int>& nums){
         int n = nums.size();
         int maxi = INT_MIN;
         for(int i=0;i<n;i++){
@@ -8,44 +8,42 @@ public:
         }
         return maxi;
     }
-
-    int summation(vector<int>& nums){
+    int suma(vector<int>& nums){
         int n = nums.size();
-        int summ=0;
+        int summ = 0;
         for(int i=0;i<n;i++){
             summ+=nums[i];
         }
         return summ;
     }
-    
-    int solution(vector<int>& nums,int numbers, int k){
+    int arr(vector<int>& nums, int number){
         int n = nums.size();
-        int parts = 1;
-        int sum =0;
+        int count=1;
+        int num = 0;
         for(int i=0;i<n;i++){
-            if(sum+nums[i]<=numbers){
-                sum+=nums[i];
-            }
-            else{
-                parts++;
-                sum=nums[i];
-            }
+            if(nums[i]+num<=number){
+            num+=nums[i];
         }
-        return parts;
+        else{
+            count++;
+            num=nums[i];
+        }
+        }
+        return count;
     }
     int splitArray(vector<int>& nums, int k) {
-     int low = maximum(nums);
-     int high = summation(nums);
-     while(low<=high){
-        int mid = (low+high)/2;
-        int parts = solution(nums,mid,k);
-            if(parts<=k){
+        int low = maxim(nums);
+        int high = suma(nums);
+        while(low<=high){
+            int mid = (low+high)/2;
+            int count = arr(nums,mid);
+            if(count<=k){
                 high=mid-1;
             }
             else{
                 low=mid+1;
             }
         }
-        return low; 
-    }    
+        return low;
+    }
 };
