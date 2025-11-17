@@ -48,6 +48,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sparsh166/Coding-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/Sparsh166/Coding-/tree/master/1063-best-sightseeing-pair) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sparsh166/Coding-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Sparsh166/Coding-/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sparsh166/Coding-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sparsh166/Coding-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/Sparsh166/Coding-/tree/master/1646-kth-missing-positive-number) |
