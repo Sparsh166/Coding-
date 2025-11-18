@@ -43,6 +43,7 @@
 | [0485-max-consecutive-ones](https://github.com/Sparsh166/Coding-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sparsh166/Coding-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sparsh166/Coding-/tree/master/0560-subarray-sum-equals-k) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Sparsh166/Coding-/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/Sparsh166/Coding-/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Sparsh166/Coding-/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sparsh166/Coding-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
