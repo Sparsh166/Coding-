@@ -114,6 +114,7 @@
 | [0268-missing-number](https://github.com/Sparsh166/Coding-/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Sparsh166/Coding-/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Sparsh166/Coding-/tree/master/0560-subarray-sum-equals-k) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Sparsh166/Coding-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1297-maximum-number-of-balloons](https://github.com/Sparsh166/Coding-/tree/master/1297-maximum-number-of-balloons) |
 | [2169-simple-bank-system](https://github.com/Sparsh166/Coding-/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sparsh166/Coding-/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -131,6 +132,7 @@
 | [0189-rotate-array](https://github.com/Sparsh166/Coding-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sparsh166/Coding-/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Sparsh166/Coding-/tree/master/0367-valid-perfect-square) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Sparsh166/Coding-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Sparsh166/Coding-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Sparsh166/Coding-/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/Sparsh166/Coding-/tree/master/2032-largest-odd-number-in-string) |
