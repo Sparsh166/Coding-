@@ -5,12 +5,9 @@ public:
         int n = nums.size();
         for(int i=0;i<n;i++){
             if(nums[i]%3==0){
-                continue;
-            }
-            if(nums[i]%3!=0){
-                count+=min(nums[i] % 3, 3 - (nums[i] % 3));
+                count++;
             }
         }
-        return count;
+        return (n-count);
     }
 };
