@@ -53,6 +53,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sparsh166/Coding-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sparsh166/Coding-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/Sparsh166/Coding-/tree/master/1646-kth-missing-positive-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sparsh166/Coding-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sparsh166/Coding-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sparsh166/Coding-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/Sparsh166/Coding-/tree/master/2047-find-a-peak-element-ii) |
