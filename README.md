@@ -64,6 +64,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sparsh166/Coding-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sparsh166/Coding-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sparsh166/Coding-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Sparsh166/Coding-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sparsh166/Coding-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sparsh166/Coding-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sparsh166/Coding-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -145,6 +146,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sparsh166/Coding-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Sparsh166/Coding-/tree/master/2288-count-operations-to-obtain-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sparsh166/Coding-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Sparsh166/Coding-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sparsh166/Coding-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sparsh166/Coding-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sparsh166/Coding-/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -257,6 +259,7 @@
 | [0410-split-array-largest-sum](https://github.com/Sparsh166/Coding-/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sparsh166/Coding-/tree/master/0560-subarray-sum-equals-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sparsh166/Coding-/tree/master/1590-make-sum-divisible-by-p) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Sparsh166/Coding-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sparsh166/Coding-/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Sparsh166/Coding-/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## String
