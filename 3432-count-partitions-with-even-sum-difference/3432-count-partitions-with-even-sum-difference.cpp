@@ -12,7 +12,7 @@ public:
         for(int i=0;i<n-1;i++){
             prefix+=nums[i];
             diff = sum-prefix;
-            if((prefix%2==(diff%2))){
+            if((prefix%2)==(diff%2)){
                 count++;
             }
         }
