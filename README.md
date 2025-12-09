@@ -276,6 +276,7 @@
 | [0242-valid-anagram](https://github.com/Sparsh166/Coding-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Sparsh166/Coding-/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Sparsh166/Coding-/tree/master/0812-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Sparsh166/Coding-/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Sparsh166/Coding-/tree/master/1078-remove-outermost-parentheses) |
 | [1297-maximum-number-of-balloons](https://github.com/Sparsh166/Coding-/tree/master/1297-maximum-number-of-balloons) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Sparsh166/Coding-/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -288,6 +289,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Sparsh166/Coding-/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/Sparsh166/Coding-/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Sparsh166/Coding-/tree/master/1078-remove-outermost-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sparsh166/Coding-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sparsh166/Coding-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
