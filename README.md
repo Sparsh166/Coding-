@@ -143,6 +143,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/Sparsh166/Coding-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Sparsh166/Coding-/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1903-largest-odd-number-in-string](https://github.com/Sparsh166/Coding-/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Sparsh166/Coding-/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/Sparsh166/Coding-/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/Sparsh166/Coding-/tree/master/2032-largest-odd-number-in-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sparsh166/Coding-/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -334,6 +335,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Sparsh166/Coding-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Sparsh166/Coding-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sparsh166/Coding-/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/Sparsh166/Coding-/tree/master/1922-count-good-numbers) |
 ## Merge Sort
 |  |
 | ------- |
