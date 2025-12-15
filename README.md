@@ -59,6 +59,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sparsh166/Coding-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sparsh166/Coding-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/Sparsh166/Coding-/tree/master/2047-find-a-peak-element-ii) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sparsh166/Coding-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sparsh166/Coding-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Sparsh166/Coding-/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sparsh166/Coding-/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -150,6 +151,7 @@
 | [1922-count-good-numbers](https://github.com/Sparsh166/Coding-/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/Sparsh166/Coding-/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/Sparsh166/Coding-/tree/master/2032-largest-odd-number-in-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sparsh166/Coding-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sparsh166/Coding-/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sparsh166/Coding-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Sparsh166/Coding-/tree/master/2288-count-operations-to-obtain-zero) |
@@ -217,6 +219,7 @@
 | [1063-best-sightseeing-pair](https://github.com/Sparsh166/Coding-/tree/master/1063-best-sightseeing-pair) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sparsh166/Coding-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sparsh166/Coding-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sparsh166/Coding-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Divide and Conquer
 |  |
 | ------- |
