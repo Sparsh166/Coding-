@@ -74,6 +74,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sparsh166/Coding-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sparsh166/Coding-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sparsh166/Coding-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Sparsh166/Coding-/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sparsh166/Coding-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sparsh166/Coding-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sparsh166/Coding-/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -230,6 +231,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sparsh166/Coding-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sparsh166/Coding-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sparsh166/Coding-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Sparsh166/Coding-/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Divide and Conquer
 |  |
 | ------- |
