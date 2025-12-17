@@ -16,6 +16,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sparsh166/Coding-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sparsh166/Coding-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sparsh166/Coding-/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/Sparsh166/Coding-/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Sparsh166/Coding-/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Sparsh166/Coding-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sparsh166/Coding-/tree/master/0053-maximum-subarray) |
@@ -404,6 +405,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Sparsh166/Coding-/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Sparsh166/Coding-/tree/master/0078-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sparsh166/Coding-/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
