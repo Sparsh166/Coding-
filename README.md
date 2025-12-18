@@ -33,6 +33,7 @@
 | [0090-subsets-ii](https://github.com/Sparsh166/Coding-/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sparsh166/Coding-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sparsh166/Coding-/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Sparsh166/Coding-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sparsh166/Coding-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sparsh166/Coding-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sparsh166/Coding-/tree/master/0162-find-peak-element) |
@@ -125,6 +126,7 @@
 | [0013-roman-to-integer](https://github.com/Sparsh166/Coding-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sparsh166/Coding-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Sparsh166/Coding-/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/Sparsh166/Coding-/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Sparsh166/Coding-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sparsh166/Coding-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sparsh166/Coding-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -231,6 +233,7 @@
 | [0055-jump-game](https://github.com/Sparsh166/Coding-/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sparsh166/Coding-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Sparsh166/Coding-/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Sparsh166/Coding-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sparsh166/Coding-/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Sparsh166/Coding-/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Sparsh166/Coding-/tree/master/0509-fibonacci-number) |
@@ -307,6 +310,7 @@
 | [0079-word-search](https://github.com/Sparsh166/Coding-/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Sparsh166/Coding-/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Sparsh166/Coding-/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Sparsh166/Coding-/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Sparsh166/Coding-/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Sparsh166/Coding-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sparsh166/Coding-/tree/master/0242-valid-anagram) |
@@ -411,6 +415,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sparsh166/Coding-/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Sparsh166/Coding-/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
@@ -457,6 +462,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Sparsh166/Coding-/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Sparsh166/Coding-/tree/master/0509-fibonacci-number) |
 ## Depth-First Search
 |  |
