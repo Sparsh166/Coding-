@@ -16,6 +16,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sparsh166/Coding-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sparsh166/Coding-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sparsh166/Coding-/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Sparsh166/Coding-/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Sparsh166/Coding-/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Sparsh166/Coding-/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Sparsh166/Coding-/tree/master/0048-rotate-image) |
@@ -126,6 +127,7 @@
 | [0001-two-sum](https://github.com/Sparsh166/Coding-/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Sparsh166/Coding-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sparsh166/Coding-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Sparsh166/Coding-/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Sparsh166/Coding-/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Sparsh166/Coding-/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Sparsh166/Coding-/tree/master/0141-linked-list-cycle) |
@@ -272,6 +274,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sparsh166/Coding-/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Sparsh166/Coding-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sparsh166/Coding-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sparsh166/Coding-/tree/master/0074-search-a-2d-matrix) |
@@ -430,6 +433,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sparsh166/Coding-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sparsh166/Coding-/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Sparsh166/Coding-/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Sparsh166/Coding-/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Sparsh166/Coding-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Sparsh166/Coding-/tree/master/0078-subsets) |
