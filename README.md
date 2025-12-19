@@ -57,6 +57,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/Sparsh166/Coding-/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/Sparsh166/Coding-/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Sparsh166/Coding-/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sparsh166/Coding-/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sparsh166/Coding-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/Sparsh166/Coding-/tree/master/1063-best-sightseeing-pair) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sparsh166/Coding-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -204,6 +205,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Sparsh166/Coding-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Sparsh166/Coding-/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Sparsh166/Coding-/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sparsh166/Coding-/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sparsh166/Coding-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sparsh166/Coding-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sparsh166/Coding-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -300,6 +302,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sparsh166/Coding-/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Sparsh166/Coding-/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sparsh166/Coding-/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sparsh166/Coding-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sparsh166/Coding-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sparsh166/Coding-/tree/master/1590-make-sum-divisible-by-p) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sparsh166/Coding-/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -456,6 +459,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sparsh166/Coding-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sparsh166/Coding-/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sparsh166/Coding-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sparsh166/Coding-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sparsh166/Coding-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Sparsh166/Coding-/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
