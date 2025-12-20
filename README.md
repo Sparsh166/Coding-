@@ -418,6 +418,7 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Sparsh166/Coding-/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/Sparsh166/Coding-/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/Sparsh166/Coding-/tree/master/1670-patients-with-a-condition) |
+| [1683-invalid-tweets](https://github.com/Sparsh166/Coding-/tree/master/1683-invalid-tweets) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sparsh166/Coding-/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sparsh166/Coding-/tree/master/1757-recyclable-and-low-fat-products) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Sparsh166/Coding-/tree/master/1773-percentage-of-users-attended-a-contest) |
