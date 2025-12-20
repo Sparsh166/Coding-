@@ -56,6 +56,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sparsh166/Coding-/tree/master/0560-subarray-sum-equals-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Sparsh166/Coding-/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/Sparsh166/Coding-/tree/master/0792-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/Sparsh166/Coding-/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/Sparsh166/Coding-/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sparsh166/Coding-/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sparsh166/Coding-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -144,6 +145,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sparsh166/Coding-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Sparsh166/Coding-/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Sparsh166/Coding-/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/Sparsh166/Coding-/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sparsh166/Coding-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1297-maximum-number-of-balloons](https://github.com/Sparsh166/Coding-/tree/master/1297-maximum-number-of-balloons) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sparsh166/Coding-/tree/master/1590-make-sum-divisible-by-p) |
@@ -459,6 +461,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sparsh166/Coding-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sparsh166/Coding-/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Sparsh166/Coding-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sparsh166/Coding-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sparsh166/Coding-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sparsh166/Coding-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
