@@ -411,6 +411,7 @@
 | [1258-article-views-i](https://github.com/Sparsh166/Coding-/tree/master/1258-article-views-i) |
 | [1317-monthly-transactions-i](https://github.com/Sparsh166/Coding-/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Sparsh166/Coding-/tree/master/1338-queries-quality-and-percentage) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sparsh166/Coding-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1390-average-selling-price](https://github.com/Sparsh166/Coding-/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Sparsh166/Coding-/tree/master/1415-students-and-examinations) |
 | [1452-restaurant-growth](https://github.com/Sparsh166/Coding-/tree/master/1452-restaurant-growth) |
