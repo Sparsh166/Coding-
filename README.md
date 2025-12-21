@@ -63,6 +63,7 @@
 | [1063-best-sightseeing-pair](https://github.com/Sparsh166/Coding-/tree/master/1063-best-sightseeing-pair) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sparsh166/Coding-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sparsh166/Coding-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1436-destination-city](https://github.com/Sparsh166/Coding-/tree/master/1436-destination-city) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sparsh166/Coding-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Sparsh166/Coding-/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sparsh166/Coding-/tree/master/1590-make-sum-divisible-by-p) |
@@ -149,6 +150,7 @@
 | [0904-fruit-into-baskets](https://github.com/Sparsh166/Coding-/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sparsh166/Coding-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1297-maximum-number-of-balloons](https://github.com/Sparsh166/Coding-/tree/master/1297-maximum-number-of-balloons) |
+| [1436-destination-city](https://github.com/Sparsh166/Coding-/tree/master/1436-destination-city) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sparsh166/Coding-/tree/master/1590-make-sum-divisible-by-p) |
 | [2169-simple-bank-system](https://github.com/Sparsh166/Coding-/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sparsh166/Coding-/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -335,6 +337,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Sparsh166/Coding-/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Sparsh166/Coding-/tree/master/1078-remove-outermost-parentheses) |
 | [1297-maximum-number-of-balloons](https://github.com/Sparsh166/Coding-/tree/master/1297-maximum-number-of-balloons) |
+| [1436-destination-city](https://github.com/Sparsh166/Coding-/tree/master/1436-destination-city) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Sparsh166/Coding-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sparsh166/Coding-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Sparsh166/Coding-/tree/master/1903-largest-odd-number-in-string) |
